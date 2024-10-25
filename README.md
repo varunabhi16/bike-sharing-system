@@ -1,20 +1,17 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike Sharing assignment
+>Build a multiple linear regression model for the prediction of demand for shared bikes
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Problem Statement](#Problem-Statement)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## Problem Statement
+A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
